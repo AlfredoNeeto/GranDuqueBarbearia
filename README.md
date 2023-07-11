@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center;">
-  <img style="height: 40px; width: 40px; align-content: center;" src="link.png"/>
+  <img style="height: 100px; width: 100px;" src="LogoGranDuque.jpg"/>
     <h1>Linfy Pro - Gran Duque Barbearia</h1>
     <p>Linkfy Pro é a solução definitiva para centralizar todos os seus links importantes em um só lugar. Feito usando HTML e CSS.</p>
     <p align="center">
@@ -18,6 +18,6 @@
   
   <div>
    <h1>Link para acesso</h1>
-   Site: https://alfredoneeto.github.io/maratona-explorer-2/
+   Site: https://granduquebarbearia.netlify.app/
     
   </div>
